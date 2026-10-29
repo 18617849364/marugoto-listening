@@ -1,0 +1,39 @@
+{
+ "file": "sa004.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.9199999999999997,
+   "end": 3.5,
+   "text": "3. こんばんは。",
+   "words": [
+    {
+     "start": 0.9199999999999997,
+     "end": 1.36,
+     "word": "3."
+    },
+    {
+     "start": 2.82,
+     "end": 3.04,
+     "word": " こん"
+    },
+    {
+     "start": 3.04,
+     "end": 3.2,
+     "word": "ば"
+    },
+    {
+     "start": 3.2,
+     "end": 3.32,
+     "word": "ん"
+    },
+    {
+     "start": 3.32,
+     "end": 3.5,
+     "word": "は。"
+    }
+   ]
+  }
+ ]
+}

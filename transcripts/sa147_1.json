@@ -1,0 +1,128 @@
+{
+ "file": "sa147_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson12",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.78,
+   "text": "第12日 一緒に行きませんか",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.32,
+     "word": "第"
+    },
+    {
+     "start": 1.32,
+     "end": 1.82,
+     "word": "12"
+    },
+    {
+     "start": 1.82,
+     "end": 2.18,
+     "word": "日"
+    },
+    {
+     "start": 2.18,
+     "end": 3.28,
+     "word": " 一"
+    },
+    {
+     "start": 3.28,
+     "end": 3.52,
+     "word": "緒"
+    },
+    {
+     "start": 3.52,
+     "end": 3.7,
+     "word": "に"
+    },
+    {
+     "start": 3.7,
+     "end": 3.98,
+     "word": "行"
+    },
+    {
+     "start": 3.98,
+     "end": 4.06,
+     "word": "き"
+    },
+    {
+     "start": 4.06,
+     "end": 4.28,
+     "word": "ません"
+    },
+    {
+     "start": 4.28,
+     "end": 4.78,
+     "word": "か"
+    }
+   ]
+  },
+  {
+   "start": 5.839999999999999,
+   "end": 9.2,
+   "text": "1 見に行きますか",
+   "words": [
+    {
+     "start": 5.839999999999999,
+     "end": 6.52,
+     "word": "1"
+    },
+    {
+     "start": 7.54,
+     "end": 7.78,
+     "word": " 見"
+    },
+    {
+     "start": 7.78,
+     "end": 7.98,
+     "word": "に"
+    },
+    {
+     "start": 7.98,
+     "end": 8.18,
+     "word": "行"
+    },
+    {
+     "start": 8.18,
+     "end": 8.5,
+     "word": "きます"
+    },
+    {
+     "start": 8.5,
+     "end": 9.2,
+     "word": "か"
+    }
+   ]
+  },
+  {
+   "start": 10.0,
+   "end": 12.22,
+   "text": "2 聞きましょう",
+   "words": [
+    {
+     "start": 10.0,
+     "end": 10.5,
+     "word": "2"
+    },
+    {
+     "start": 11.4,
+     "end": 11.6,
+     "word": " 聞"
+    },
+    {
+     "start": 11.6,
+     "end": 11.74,
+     "word": "き"
+    },
+    {
+     "start": 11.74,
+     "end": 12.22,
+     "word": "ましょう"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "file": "sa159.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson13",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.04,
+   "text": "どちらまでですか",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.14,
+     "word": "ど"
+    },
+    {
+     "start": 1.14,
+     "end": 1.4,
+     "word": "ちら"
+    },
+    {
+     "start": 1.4,
+     "end": 1.64,
+     "word": "まで"
+    },
+    {
+     "start": 1.64,
+     "end": 2.04,
+     "word": "ですか"
+    }
+   ]
+  },
+  {
+   "start": 2.8000000000000003,
+   "end": 5.3,
+   "text": "藤ホテルまでお願いします",
+   "words": [
+    {
+     "start": 2.8000000000000003,
+     "end": 3.52,
+     "word": "藤"
+    },
+    {
+     "start": 3.52,
+     "end": 3.8,
+     "word": "ホ"
+    },
+    {
+     "start": 3.8,
+     "end": 3.92,
+     "word": "テ"
+    },
+    {
+     "start": 3.92,
+     "end": 4.02,
+     "word": "ル"
+    },
+    {
+     "start": 4.02,
+     "end": 4.26,
+     "word": "まで"
+    },
+    {
+     "start": 4.26,
+     "end": 5.3,
+     "word": "お願いします"
+    }
+   ]
+  },
+  {
+   "start": 6.36,
+   "end": 8.26,
+   "text": "はい、わかりました",
+   "words": [
+    {
+     "start": 6.36,
+     "end": 7.08,
+     "word": "はい、"
+    },
+    {
+     "start": 7.54,
+     "end": 7.86,
+     "word": "わか"
+    },
+    {
+     "start": 7.86,
+     "end": 8.26,
+     "word": "りました"
+    }
+   ]
+  }
+ ]
+}

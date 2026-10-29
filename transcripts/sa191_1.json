@@ -1,0 +1,81 @@
+{
+ "file": "sa191_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson15",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.7,
+   "text": "3。どこで変えますか?",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.36,
+     "word": "3。"
+    },
+    {
+     "start": 2.12,
+     "end": 2.5,
+     "word": "ど"
+    },
+    {
+     "start": 2.5,
+     "end": 2.64,
+     "word": "こ"
+    },
+    {
+     "start": 2.64,
+     "end": 2.84,
+     "word": "で"
+    },
+    {
+     "start": 2.84,
+     "end": 3.06,
+     "word": "変"
+    },
+    {
+     "start": 3.06,
+     "end": 3.16,
+     "word": "え"
+    },
+    {
+     "start": 3.16,
+     "end": 3.4,
+     "word": "ます"
+    },
+    {
+     "start": 3.4,
+     "end": 3.7,
+     "word": "か?"
+    }
+   ]
+  },
+  {
+   "start": 4.84,
+   "end": 7.3,
+   "text": "1。聞きましょう。",
+   "words": [
+    {
+     "start": 4.84,
+     "end": 5.52,
+     "word": "1。"
+    },
+    {
+     "start": 6.54,
+     "end": 6.74,
+     "word": "聞"
+    },
+    {
+     "start": 6.74,
+     "end": 6.88,
+     "word": "き"
+    },
+    {
+     "start": 6.88,
+     "end": 7.3,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

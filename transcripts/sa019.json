@@ -1,0 +1,49 @@
+{
+ "file": "sa019.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson02",
+ "duration": null,
+ "segments": [
+  {
+   "start": 2.2799999999999994,
+   "end": 4.1,
+   "text": "4 ちょっと失礼します",
+   "words": [
+    {
+     "start": 2.2799999999999994,
+     "end": 2.7199999999999998,
+     "word": "4"
+    },
+    {
+     "start": 2.7199999999999998,
+     "end": 3.16,
+     "word": " ち"
+    },
+    {
+     "start": 3.16,
+     "end": 3.22,
+     "word": "ょ"
+    },
+    {
+     "start": 3.22,
+     "end": 3.44,
+     "word": "っと"
+    },
+    {
+     "start": 3.44,
+     "end": 3.66,
+     "word": "失"
+    },
+    {
+     "start": 3.66,
+     "end": 3.9,
+     "word": "礼"
+    },
+    {
+     "start": 3.9,
+     "end": 4.1,
+     "word": "します"
+    }
+   ]
+  }
+ ]
+}

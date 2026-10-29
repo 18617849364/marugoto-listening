@@ -1,0 +1,88 @@
+{
+ "file": "sa020.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson02",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.6799999999999995,
+   "end": 1.16,
+   "text": "5",
+   "words": [
+    {
+     "start": 0.6799999999999995,
+     "end": 1.16,
+     "word": "5"
+    }
+   ]
+  },
+  {
+   "start": 2.3399999999999994,
+   "end": 4.48,
+   "text": "すみません、おくれます",
+   "words": [
+    {
+     "start": 2.3399999999999994,
+     "end": 2.82,
+     "word": "す"
+    },
+    {
+     "start": 2.82,
+     "end": 3.0,
+     "word": "み"
+    },
+    {
+     "start": 3.0,
+     "end": 3.24,
+     "word": "ません、"
+    },
+    {
+     "start": 3.8,
+     "end": 3.96,
+     "word": "お"
+    },
+    {
+     "start": 3.96,
+     "end": 4.08,
+     "word": "く"
+    },
+    {
+     "start": 4.08,
+     "end": 4.14,
+     "word": "れ"
+    },
+    {
+     "start": 4.14,
+     "end": 4.48,
+     "word": "ます"
+    }
+   ]
+  },
+  {
+   "start": 6.1,
+   "end": 7.16,
+   "text": "やすみます",
+   "words": [
+    {
+     "start": 6.1,
+     "end": 6.58,
+     "word": "や"
+    },
+    {
+     "start": 6.58,
+     "end": 6.76,
+     "word": "す"
+    },
+    {
+     "start": 6.76,
+     "end": 6.88,
+     "word": "み"
+    },
+    {
+     "start": 6.88,
+     "end": 7.16,
+     "word": "ます"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "file": "sa209.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson16",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.4,
+   "text": "じゃあこれください はいありがとうございます",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 2.78,
+     "word": "じゃあ"
+    },
+    {
+     "start": 2.78,
+     "end": 3.32,
+     "word": "これ"
+    },
+    {
+     "start": 3.32,
+     "end": 3.82,
+     "word": "ください"
+    },
+    {
+     "start": 3.82,
+     "end": 5.4,
+     "word": " はい"
+    },
+    {
+     "start": 5.4,
+     "end": 6.4,
+     "word": "ありがとうございます"
+    }
+   ]
+  }
+ ]
+}

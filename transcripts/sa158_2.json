@@ -1,0 +1,78 @@
+{
+ "file": "sa158_2.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson13",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.46,
+   "end": 4.88,
+   "text": "すみませんお願いします",
+   "words": [
+    {
+     "start": 1.46,
+     "end": 2.86,
+     "word": "す"
+    },
+    {
+     "start": 2.86,
+     "end": 3.0,
+     "word": "み"
+    },
+    {
+     "start": 3.0,
+     "end": 3.36,
+     "word": "ません"
+    },
+    {
+     "start": 3.36,
+     "end": 4.88,
+     "word": "お願いします"
+    }
+   ]
+  },
+  {
+   "start": 6.0,
+   "end": 7.64,
+   "text": "はいどうぞ",
+   "words": [
+    {
+     "start": 5.9399999999999995,
+     "end": 6.64,
+     "word": "はい"
+    },
+    {
+     "start": 6.64,
+     "end": 7.1,
+     "word": "どう"
+    },
+    {
+     "start": 7.1,
+     "end": 7.64,
+     "word": "ぞ"
+    }
+   ]
+  },
+  {
+   "start": 7.64,
+   "end": 10.14,
+   "text": "荷物お願いします",
+   "words": [
+    {
+     "start": 7.64,
+     "end": 8.66,
+     "word": "荷"
+    },
+    {
+     "start": 8.66,
+     "end": 8.92,
+     "word": "物"
+    },
+    {
+     "start": 8.92,
+     "end": 10.14,
+     "word": "お願いします"
+    }
+   ]
+  }
+ ]
+}

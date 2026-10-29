@@ -1,0 +1,115 @@
+{
+ "file": "sa043.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson03",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.18,
+   "text": "5",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.18,
+     "word": "5"
+    }
+   ]
+  },
+  {
+   "start": 2.06,
+   "end": 4.52,
+   "text": "お仕事は何ですか",
+   "words": [
+    {
+     "start": 2.06,
+     "end": 2.82,
+     "word": "お"
+    },
+    {
+     "start": 2.82,
+     "end": 3.0,
+     "word": "仕"
+    },
+    {
+     "start": 3.0,
+     "end": 3.22,
+     "word": "事"
+    },
+    {
+     "start": 3.22,
+     "end": 3.54,
+     "word": "は"
+    },
+    {
+     "start": 3.54,
+     "end": 4.08,
+     "word": "何"
+    },
+    {
+     "start": 4.08,
+     "end": 4.52,
+     "word": "ですか"
+    }
+   ]
+  },
+  {
+   "start": 4.52,
+   "end": 6.44,
+   "text": "教師です",
+   "words": [
+    {
+     "start": 4.52,
+     "end": 5.72,
+     "word": "教"
+    },
+    {
+     "start": 5.72,
+     "end": 5.92,
+     "word": "師"
+    },
+    {
+     "start": 5.92,
+     "end": 6.44,
+     "word": "です"
+    }
+   ]
+  },
+  {
+   "start": 7.0,
+   "end": 9.06,
+   "text": "日本語の教師です",
+   "words": [
+    {
+     "start": 7.0,
+     "end": 7.6,
+     "word": "日本"
+    },
+    {
+     "start": 7.6,
+     "end": 7.92,
+     "word": "語"
+    },
+    {
+     "start": 7.92,
+     "end": 8.06,
+     "word": "の"
+    },
+    {
+     "start": 8.06,
+     "end": 8.62,
+     "word": "教"
+    },
+    {
+     "start": 8.62,
+     "end": 8.78,
+     "word": "師"
+    },
+    {
+     "start": 8.78,
+     "end": 9.06,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

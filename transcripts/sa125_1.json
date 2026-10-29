@@ -1,0 +1,71 @@
+{
+ "file": "sa125_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson09",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.2,
+   "text": "3.毎日忙しいです。",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.4,
+     "word": "3."
+    },
+    {
+     "start": 2.48,
+     "end": 2.64,
+     "word": "毎"
+    },
+    {
+     "start": 2.64,
+     "end": 3.04,
+     "word": "日"
+    },
+    {
+     "start": 3.04,
+     "end": 3.42,
+     "word": "忙"
+    },
+    {
+     "start": 3.42,
+     "end": 3.86,
+     "word": "しい"
+    },
+    {
+     "start": 3.86,
+     "end": 4.2,
+     "word": "です。"
+    }
+   ]
+  },
+  {
+   "start": 5.140000000000001,
+   "end": 7.68,
+   "text": "1.聞きましょう。",
+   "words": [
+    {
+     "start": 5.140000000000001,
+     "end": 5.98,
+     "word": "1."
+    },
+    {
+     "start": 7.1,
+     "end": 7.2,
+     "word": "聞"
+    },
+    {
+     "start": 7.2,
+     "end": 7.36,
+     "word": "き"
+    },
+    {
+     "start": 7.36,
+     "end": 7.68,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

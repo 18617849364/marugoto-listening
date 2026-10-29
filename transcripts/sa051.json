@@ -1,0 +1,86 @@
+{
+ "file": "sa051.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson04",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.18,
+   "text": "5",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.18,
+     "word": "5"
+    }
+   ]
+  },
+  {
+   "start": 2.3399999999999994,
+   "end": 8.6,
+   "text": "私の家族は二人です。 私と妻です。",
+   "words": [
+    {
+     "start": 2.3399999999999994,
+     "end": 3.14,
+     "word": "私"
+    },
+    {
+     "start": 3.14,
+     "end": 3.36,
+     "word": "の"
+    },
+    {
+     "start": 3.36,
+     "end": 3.62,
+     "word": "家"
+    },
+    {
+     "start": 3.62,
+     "end": 3.88,
+     "word": "族"
+    },
+    {
+     "start": 3.88,
+     "end": 4.2,
+     "word": "は"
+    },
+    {
+     "start": 4.2,
+     "end": 4.68,
+     "word": "二"
+    },
+    {
+     "start": 4.68,
+     "end": 4.92,
+     "word": "人"
+    },
+    {
+     "start": 4.92,
+     "end": 5.32,
+     "word": "です。"
+    },
+    {
+     "start": 6.4,
+     "end": 6.9,
+     "word": " 私"
+    },
+    {
+     "start": 6.9,
+     "end": 7.16,
+     "word": "と"
+    },
+    {
+     "start": 7.16,
+     "end": 8.24,
+     "word": "妻"
+    },
+    {
+     "start": 8.24,
+     "end": 8.6,
+     "word": "です。"
+    }
+   ]
+  }
+ ]
+}

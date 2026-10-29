@@ -1,0 +1,51 @@
+{
+ "file": "sa005.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.44,
+   "text": "4 さようなら",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.28,
+     "word": "4"
+    },
+    {
+     "start": 1.28,
+     "end": 2.96,
+     "word": " さ"
+    },
+    {
+     "start": 2.96,
+     "end": 3.16,
+     "word": "よう"
+    },
+    {
+     "start": 3.16,
+     "end": 3.44,
+     "word": "なら"
+    }
+   ]
+  },
+  {
+   "start": 4.0,
+   "end": 5.52,
+   "text": "じゃあまた",
+   "words": [
+    {
+     "start": 4.0,
+     "end": 4.86,
+     "word": "じゃあ"
+    },
+    {
+     "start": 4.86,
+     "end": 5.52,
+     "word": "また"
+    }
+   ]
+  }
+ ]
+}

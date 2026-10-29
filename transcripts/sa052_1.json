@@ -1,0 +1,71 @@
+{
+ "file": "sa052_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson04",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.1,
+   "text": "2、おいくつですか?",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.22,
+     "word": "2、"
+    },
+    {
+     "start": 2.04,
+     "end": 2.32,
+     "word": "お"
+    },
+    {
+     "start": 2.32,
+     "end": 2.5,
+     "word": "いく"
+    },
+    {
+     "start": 2.5,
+     "end": 2.68,
+     "word": "つ"
+    },
+    {
+     "start": 2.68,
+     "end": 3.1,
+     "word": "ですか?"
+    }
+   ]
+  },
+  {
+   "start": 4.159999999999999,
+   "end": 6.98,
+   "text": "1、聞いていいましょう。",
+   "words": [
+    {
+     "start": 4.159999999999999,
+     "end": 4.92,
+     "word": "1、"
+    },
+    {
+     "start": 6.02,
+     "end": 6.16,
+     "word": "聞"
+    },
+    {
+     "start": 6.16,
+     "end": 6.44,
+     "word": "いて"
+    },
+    {
+     "start": 6.44,
+     "end": 6.64,
+     "word": "いい"
+    },
+    {
+     "start": 6.64,
+     "end": 6.98,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

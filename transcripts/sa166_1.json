@@ -1,0 +1,81 @@
+{
+ "file": "sa166_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson13",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.7,
+   "text": "3。 朝草までどうやっていきますか。",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.42,
+     "word": "3。"
+    },
+    {
+     "start": 2.84,
+     "end": 3.12,
+     "word": " 朝"
+    },
+    {
+     "start": 3.12,
+     "end": 3.32,
+     "word": "草"
+    },
+    {
+     "start": 3.32,
+     "end": 3.74,
+     "word": "まで"
+    },
+    {
+     "start": 3.74,
+     "end": 4.38,
+     "word": "どう"
+    },
+    {
+     "start": 4.38,
+     "end": 4.78,
+     "word": "やって"
+    },
+    {
+     "start": 4.78,
+     "end": 5.16,
+     "word": "いきます"
+    },
+    {
+     "start": 5.16,
+     "end": 5.7,
+     "word": "か。"
+    }
+   ]
+  },
+  {
+   "start": 6.82,
+   "end": 9.1,
+   "text": "1。 聞きましょう。",
+   "words": [
+    {
+     "start": 6.82,
+     "end": 7.38,
+     "word": "1。"
+    },
+    {
+     "start": 8.38,
+     "end": 8.62,
+     "word": " 聞"
+    },
+    {
+     "start": 8.62,
+     "end": 8.78,
+     "word": "き"
+    },
+    {
+     "start": 8.78,
+     "end": 9.1,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

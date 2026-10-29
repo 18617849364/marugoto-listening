@@ -1,0 +1,66 @@
+{
+ "file": "sa039_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson03",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "text": "3.お仕事は?",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.4,
+     "word": "3."
+    },
+    {
+     "start": 2.34,
+     "end": 2.52,
+     "word": "お"
+    },
+    {
+     "start": 2.52,
+     "end": 2.68,
+     "word": "仕"
+    },
+    {
+     "start": 2.68,
+     "end": 2.94,
+     "word": "事"
+    },
+    {
+     "start": 2.94,
+     "end": 3.2,
+     "word": "は?"
+    }
+   ]
+  },
+  {
+   "start": 4.319999999999999,
+   "end": 6.78,
+   "text": "1.聞きましょう。",
+   "words": [
+    {
+     "start": 4.319999999999999,
+     "end": 5.04,
+     "word": "1."
+    },
+    {
+     "start": 6.14,
+     "end": 6.22,
+     "word": "聞"
+    },
+    {
+     "start": 6.22,
+     "end": 6.4,
+     "word": "き"
+    },
+    {
+     "start": 6.4,
+     "end": 6.78,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

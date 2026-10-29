@@ -1,0 +1,99 @@
+{
+ "file": "sa093.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson07",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.8399999999999987,
+   "end": 10.2,
+   "text": "ソファー、テレビ、ベッド、エアコン、テーブル",
+   "words": [
+    {
+     "start": 0.8399999999999987,
+     "end": 1.28,
+     "word": "ソ"
+    },
+    {
+     "start": 1.28,
+     "end": 1.5,
+     "word": "フ"
+    },
+    {
+     "start": 1.5,
+     "end": 1.62,
+     "word": "ァ"
+    },
+    {
+     "start": 1.62,
+     "end": 2.18,
+     "word": "ー、"
+    },
+    {
+     "start": 2.56,
+     "end": 3.3,
+     "word": "テ"
+    },
+    {
+     "start": 3.3,
+     "end": 3.44,
+     "word": "レ"
+    },
+    {
+     "start": 3.44,
+     "end": 3.64,
+     "word": "ビ、"
+    },
+    {
+     "start": 5.16,
+     "end": 5.38,
+     "word": "ベ"
+    },
+    {
+     "start": 5.38,
+     "end": 5.62,
+     "word": "ッ"
+    },
+    {
+     "start": 5.62,
+     "end": 5.84,
+     "word": "ド、"
+    },
+    {
+     "start": 7.36,
+     "end": 7.44,
+     "word": "エ"
+    },
+    {
+     "start": 7.44,
+     "end": 7.62,
+     "word": "ア"
+    },
+    {
+     "start": 7.62,
+     "end": 7.9,
+     "word": "コ"
+    },
+    {
+     "start": 7.9,
+     "end": 8.06,
+     "word": "ン、"
+    },
+    {
+     "start": 9.42,
+     "end": 9.76,
+     "word": "テ"
+    },
+    {
+     "start": 9.76,
+     "end": 9.98,
+     "word": "ーブ"
+    },
+    {
+     "start": 9.98,
+     "end": 10.2,
+     "word": "ル"
+    }
+   ]
+  }
+ ]
+}

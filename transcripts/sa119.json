@@ -1,0 +1,106 @@
+{
+ "file": "sa119.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson09",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.68,
+   "text": "4 補正さんは何をしますか",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.3,
+     "word": "4"
+    },
+    {
+     "start": 2.36,
+     "end": 3.04,
+     "word": " 補"
+    },
+    {
+     "start": 3.04,
+     "end": 3.16,
+     "word": "正"
+    },
+    {
+     "start": 3.16,
+     "end": 3.42,
+     "word": "さん"
+    },
+    {
+     "start": 3.42,
+     "end": 3.68,
+     "word": "は"
+    },
+    {
+     "start": 3.68,
+     "end": 4.56,
+     "word": "何"
+    },
+    {
+     "start": 4.56,
+     "end": 4.78,
+     "word": "を"
+    },
+    {
+     "start": 4.78,
+     "end": 5.04,
+     "word": "します"
+    },
+    {
+     "start": 5.04,
+     "end": 5.68,
+     "word": "か"
+    }
+   ]
+  },
+  {
+   "start": 6.28,
+   "end": 10.96,
+   "text": "私は仕事をします 仕事",
+   "words": [
+    {
+     "start": 6.28,
+     "end": 6.78,
+     "word": "私"
+    },
+    {
+     "start": 6.78,
+     "end": 7.04,
+     "word": "は"
+    },
+    {
+     "start": 7.04,
+     "end": 7.6,
+     "word": "仕"
+    },
+    {
+     "start": 7.6,
+     "end": 7.82,
+     "word": "事"
+    },
+    {
+     "start": 7.82,
+     "end": 8.02,
+     "word": "を"
+    },
+    {
+     "start": 8.02,
+     "end": 8.36,
+     "word": "します"
+    },
+    {
+     "start": 9.46,
+     "end": 10.62,
+     "word": " 仕"
+    },
+    {
+     "start": 10.62,
+     "end": 10.96,
+     "word": "事"
+    }
+   ]
+  }
+ ]
+}

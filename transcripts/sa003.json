@@ -1,0 +1,34 @@
+{
+ "file": "sa003.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.28,
+   "text": "2 こんにちは",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.2,
+     "word": "2"
+    },
+    {
+     "start": 1.2,
+     "end": 2.86,
+     "word": " こ"
+    },
+    {
+     "start": 2.86,
+     "end": 2.96,
+     "word": "ん"
+    },
+    {
+     "start": 2.96,
+     "end": 3.28,
+     "word": "にちは"
+    }
+   ]
+  }
+ ]
+}

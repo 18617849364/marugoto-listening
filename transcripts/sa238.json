@@ -1,0 +1,142 @@
+{
+ "file": "sa238.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson05",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "キャンドゥー9",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.7,
+     "word": "キャンドゥー"
+    },
+    {
+     "start": 1.7,
+     "end": 4.0,
+     "word": "9"
+    }
+   ]
+  },
+  {
+   "start": 4.74,
+   "end": 6.08,
+   "text": "何が好きですか?",
+   "words": [
+    {
+     "start": 4.74,
+     "end": 5.14,
+     "word": "何"
+    },
+    {
+     "start": 5.14,
+     "end": 5.42,
+     "word": "が"
+    },
+    {
+     "start": 5.42,
+     "end": 5.64,
+     "word": "好"
+    },
+    {
+     "start": 5.64,
+     "end": 5.72,
+     "word": "き"
+    },
+    {
+     "start": 5.72,
+     "end": 6.08,
+     "word": "ですか?"
+    }
+   ]
+  },
+  {
+   "start": 7.06,
+   "end": 8.34,
+   "text": "肉が好きです",
+   "words": [
+    {
+     "start": 7.06,
+     "end": 7.38,
+     "word": "肉"
+    },
+    {
+     "start": 7.38,
+     "end": 7.68,
+     "word": "が"
+    },
+    {
+     "start": 7.68,
+     "end": 7.82,
+     "word": "好"
+    },
+    {
+     "start": 7.82,
+     "end": 7.98,
+     "word": "き"
+    },
+    {
+     "start": 7.98,
+     "end": 8.34,
+     "word": "です"
+    }
+   ]
+  },
+  {
+   "start": 8.34,
+   "end": 9.94,
+   "text": "魚は?",
+   "words": [
+    {
+     "start": 8.34,
+     "end": 9.6,
+     "word": "魚"
+    },
+    {
+     "start": 9.6,
+     "end": 9.94,
+     "word": "は?"
+    }
+   ]
+  },
+  {
+   "start": 10.64,
+   "end": 13.14,
+   "text": "魚は好きじゃないです",
+   "words": [
+    {
+     "start": 10.64,
+     "end": 11.32,
+     "word": "魚"
+    },
+    {
+     "start": 11.32,
+     "end": 11.78,
+     "word": "は"
+    },
+    {
+     "start": 11.78,
+     "end": 12.22,
+     "word": "好"
+    },
+    {
+     "start": 12.22,
+     "end": 12.4,
+     "word": "き"
+    },
+    {
+     "start": 12.4,
+     "end": 12.7,
+     "word": "じゃない"
+    },
+    {
+     "start": 12.7,
+     "end": 13.14,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

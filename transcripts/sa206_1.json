@@ -1,0 +1,39 @@
+{
+ "file": "sa206_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson16",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.36,
+   "text": "2. 聞いていましょう。",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.24,
+     "word": "2."
+    },
+    {
+     "start": 2.16,
+     "end": 2.4,
+     "word": " 聞"
+    },
+    {
+     "start": 2.4,
+     "end": 2.7,
+     "word": "いて"
+    },
+    {
+     "start": 2.7,
+     "end": 2.9,
+     "word": "い"
+    },
+    {
+     "start": 2.9,
+     "end": 3.36,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

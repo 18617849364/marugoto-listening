@@ -1,0 +1,83 @@
+{
+ "file": "sa040.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson03",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.7400000000000004,
+   "end": 1.18,
+   "text": "2",
+   "words": [
+    {
+     "start": 0.7400000000000004,
+     "end": 1.18,
+     "word": "2"
+    }
+   ]
+  },
+  {
+   "start": 2.3800000000000003,
+   "end": 3.58,
+   "text": "お仕事は",
+   "words": [
+    {
+     "start": 2.3800000000000003,
+     "end": 2.82,
+     "word": "お"
+    },
+    {
+     "start": 2.82,
+     "end": 3.0,
+     "word": "仕"
+    },
+    {
+     "start": 3.0,
+     "end": 3.22,
+     "word": "事"
+    },
+    {
+     "start": 3.22,
+     "end": 3.58,
+     "word": "は"
+    }
+   ]
+  },
+  {
+   "start": 4.24,
+   "end": 5.38,
+   "text": "エンジニアです",
+   "words": [
+    {
+     "start": 4.24,
+     "end": 4.68,
+     "word": "エ"
+    },
+    {
+     "start": 4.68,
+     "end": 4.8,
+     "word": "ン"
+    },
+    {
+     "start": 4.8,
+     "end": 4.92,
+     "word": "ジ"
+    },
+    {
+     "start": 4.92,
+     "end": 5.02,
+     "word": "ニ"
+    },
+    {
+     "start": 5.02,
+     "end": 5.16,
+     "word": "ア"
+    },
+    {
+     "start": 5.16,
+     "end": 5.38,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

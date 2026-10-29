@@ -1,0 +1,139 @@
+{
+ "file": "sa001.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.6199999999999999,
+   "end": 12.5,
+   "text": "国際交流基金、Japan Foundation、丸ごと日本の言葉と文化、入門、A1、活動。",
+   "words": [
+    {
+     "start": 0.6199999999999999,
+     "end": 1.22,
+     "word": "国"
+    },
+    {
+     "start": 1.22,
+     "end": 1.52,
+     "word": "際"
+    },
+    {
+     "start": 1.52,
+     "end": 1.8,
+     "word": "交"
+    },
+    {
+     "start": 1.8,
+     "end": 2.02,
+     "word": "流"
+    },
+    {
+     "start": 2.02,
+     "end": 2.26,
+     "word": "基"
+    },
+    {
+     "start": 2.26,
+     "end": 2.54,
+     "word": "金、"
+    },
+    {
+     "start": 3.16,
+     "end": 3.3,
+     "word": "J"
+    },
+    {
+     "start": 3.3,
+     "end": 3.58,
+     "word": "apan"
+    },
+    {
+     "start": 3.58,
+     "end": 4.36,
+     "word": " Foundation、"
+    },
+    {
+     "start": 5.48,
+     "end": 5.62,
+     "word": "丸"
+    },
+    {
+     "start": 5.62,
+     "end": 5.86,
+     "word": "ご"
+    },
+    {
+     "start": 5.86,
+     "end": 6.08,
+     "word": "と"
+    },
+    {
+     "start": 6.08,
+     "end": 6.8,
+     "word": "日本"
+    },
+    {
+     "start": 6.8,
+     "end": 7.12,
+     "word": "の"
+    },
+    {
+     "start": 7.12,
+     "end": 7.32,
+     "word": "言"
+    },
+    {
+     "start": 7.32,
+     "end": 7.64,
+     "word": "葉"
+    },
+    {
+     "start": 7.64,
+     "end": 7.74,
+     "word": "と"
+    },
+    {
+     "start": 7.74,
+     "end": 7.98,
+     "word": "文"
+    },
+    {
+     "start": 7.98,
+     "end": 8.24,
+     "word": "化、"
+    },
+    {
+     "start": 8.96,
+     "end": 9.32,
+     "word": "入"
+    },
+    {
+     "start": 9.32,
+     "end": 9.62,
+     "word": "門、"
+    },
+    {
+     "start": 10.36,
+     "end": 10.68,
+     "word": "A"
+    },
+    {
+     "start": 10.68,
+     "end": 11.04,
+     "word": "1、"
+    },
+    {
+     "start": 11.92,
+     "end": 12.12,
+     "word": "活"
+    },
+    {
+     "start": 12.12,
+     "end": 12.5,
+     "word": "動。"
+    }
+   ]
+  }
+ ]
+}

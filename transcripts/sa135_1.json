@@ -1,0 +1,110 @@
+{
+ "file": "sa135_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson10",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.8600000000000003,
+   "end": 3.14,
+   "text": "3.おめでとう",
+   "words": [
+    {
+     "start": 0.8600000000000003,
+     "end": 1.38,
+     "word": "3."
+    },
+    {
+     "start": 2.4,
+     "end": 2.52,
+     "word": "お"
+    },
+    {
+     "start": 2.52,
+     "end": 2.66,
+     "word": "め"
+    },
+    {
+     "start": 2.66,
+     "end": 2.82,
+     "word": "で"
+    },
+    {
+     "start": 2.82,
+     "end": 3.14,
+     "word": "とう"
+    }
+   ]
+  },
+  {
+   "start": 6.300000000000001,
+   "end": 8.16,
+   "text": "誕生日おめでとう",
+   "words": [
+    {
+     "start": 6.300000000000001,
+     "end": 6.82,
+     "word": "誕"
+    },
+    {
+     "start": 6.82,
+     "end": 7.1,
+     "word": "生"
+    },
+    {
+     "start": 7.1,
+     "end": 7.26,
+     "word": "日"
+    },
+    {
+     "start": 7.26,
+     "end": 7.46,
+     "word": "お"
+    },
+    {
+     "start": 7.46,
+     "end": 7.58,
+     "word": "め"
+    },
+    {
+     "start": 7.58,
+     "end": 7.7,
+     "word": "で"
+    },
+    {
+     "start": 7.7,
+     "end": 8.16,
+     "word": "とう"
+    }
+   ]
+  },
+  {
+   "start": 8.16,
+   "end": 9.3,
+   "text": "乾杯",
+   "words": [
+    {
+     "start": 8.16,
+     "end": 9.06,
+     "word": "乾"
+    },
+    {
+     "start": 9.06,
+     "end": 9.3,
+     "word": "杯"
+    }
+   ]
+  },
+  {
+   "start": 11.16,
+   "end": 11.68,
+   "text": "ありがとう",
+   "words": [
+    {
+     "start": 11.16,
+     "end": 11.68,
+     "word": "ありがとう"
+    }
+   ]
+  }
+ ]
+}

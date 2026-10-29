@@ -1,0 +1,58 @@
+{
+ "file": "sa008.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.44,
+   "text": "7",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.44,
+     "word": "7"
+    }
+   ]
+  },
+  {
+   "start": 2.4199999999999995,
+   "end": 3.58,
+   "text": "すみません",
+   "words": [
+    {
+     "start": 2.4199999999999995,
+     "end": 3.06,
+     "word": "す"
+    },
+    {
+     "start": 3.06,
+     "end": 3.26,
+     "word": "み"
+    },
+    {
+     "start": 3.26,
+     "end": 3.58,
+     "word": "ません"
+    }
+   ]
+  },
+  {
+   "start": 4.499999999999999,
+   "end": 5.38,
+   "text": "いいえ",
+   "words": [
+    {
+     "start": 4.499999999999999,
+     "end": 5.14,
+     "word": "いい"
+    },
+    {
+     "start": 5.14,
+     "end": 5.38,
+     "word": "え"
+    }
+   ]
+  }
+ ]
+}

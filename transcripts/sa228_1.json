@@ -1,0 +1,49 @@
+{
+ "file": "sa228_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson18",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.8200000000000003,
+   "end": 3.64,
+   "text": "3.ペアで話しましょう。",
+   "words": [
+    {
+     "start": 0.8200000000000003,
+     "end": 1.38,
+     "word": "3."
+    },
+    {
+     "start": 2.24,
+     "end": 2.52,
+     "word": "ペ"
+    },
+    {
+     "start": 2.52,
+     "end": 2.64,
+     "word": "ア"
+    },
+    {
+     "start": 2.64,
+     "end": 2.8,
+     "word": "で"
+    },
+    {
+     "start": 2.8,
+     "end": 3.04,
+     "word": "話"
+    },
+    {
+     "start": 3.04,
+     "end": 3.24,
+     "word": "し"
+    },
+    {
+     "start": 3.24,
+     "end": 3.64,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

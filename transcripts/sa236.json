@@ -1,0 +1,121 @@
+{
+ "file": "sa236.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson04",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.22,
+   "text": "キャンルー7",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.12,
+     "word": "キ"
+    },
+    {
+     "start": 1.12,
+     "end": 1.22,
+     "word": "ャ"
+    },
+    {
+     "start": 1.22,
+     "end": 1.32,
+     "word": "ン"
+    },
+    {
+     "start": 1.32,
+     "end": 1.54,
+     "word": "ル"
+    },
+    {
+     "start": 1.54,
+     "end": 1.7,
+     "word": "ー"
+    },
+    {
+     "start": 1.7,
+     "end": 2.22,
+     "word": "7"
+    }
+   ]
+  },
+  {
+   "start": 4.419999999999998,
+   "end": 11.36,
+   "text": "私の家族は3人です。父と母と私です。",
+   "words": [
+    {
+     "start": 4.419999999999998,
+     "end": 5.14,
+     "word": "私"
+    },
+    {
+     "start": 5.14,
+     "end": 5.44,
+     "word": "の"
+    },
+    {
+     "start": 5.44,
+     "end": 5.66,
+     "word": "家"
+    },
+    {
+     "start": 5.66,
+     "end": 5.86,
+     "word": "族"
+    },
+    {
+     "start": 5.86,
+     "end": 6.1,
+     "word": "は"
+    },
+    {
+     "start": 6.1,
+     "end": 6.44,
+     "word": "3"
+    },
+    {
+     "start": 6.44,
+     "end": 6.64,
+     "word": "人"
+    },
+    {
+     "start": 6.64,
+     "end": 7.06,
+     "word": "です。"
+    },
+    {
+     "start": 7.64,
+     "end": 8.26,
+     "word": "父"
+    },
+    {
+     "start": 8.26,
+     "end": 8.72,
+     "word": "と"
+    },
+    {
+     "start": 8.72,
+     "end": 9.58,
+     "word": "母"
+    },
+    {
+     "start": 9.58,
+     "end": 9.96,
+     "word": "と"
+    },
+    {
+     "start": 9.96,
+     "end": 11.06,
+     "word": "私"
+    },
+    {
+     "start": 11.06,
+     "end": 11.36,
+     "word": "です。"
+    }
+   ]
+  }
+ ]
+}

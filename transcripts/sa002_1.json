@@ -1,0 +1,64 @@
+{
+ "file": "sa002_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 10.56,
+   "text": "第1か。こんにちは。1、こんにちは。2、聞いていましょう。",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.48,
+     "word": "第1"
+    },
+    {
+     "start": 1.48,
+     "end": 1.84,
+     "word": "か。"
+    },
+    {
+     "start": 3.32,
+     "end": 3.32,
+     "word": "こんにちは。"
+    },
+    {
+     "start": 4.94,
+     "end": 5.18,
+     "word": "1、"
+    },
+    {
+     "start": 6.18,
+     "end": 6.8,
+     "word": "こんにちは。"
+    },
+    {
+     "start": 8.26,
+     "end": 8.56,
+     "word": "2、"
+    },
+    {
+     "start": 9.58,
+     "end": 9.76,
+     "word": "聞"
+    },
+    {
+     "start": 9.76,
+     "end": 10.02,
+     "word": "いて"
+    },
+    {
+     "start": 10.02,
+     "end": 10.22,
+     "word": "い"
+    },
+    {
+     "start": 10.22,
+     "end": 10.56,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

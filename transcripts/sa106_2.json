@@ -1,0 +1,116 @@
+{
+ "file": "sa106_2.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson08",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.0199999999999996,
+   "end": 4.22,
+   "text": "ごめんください いらっしゃい",
+   "words": [
+    {
+     "start": 1.0199999999999996,
+     "end": 1.42,
+     "word": "ご"
+    },
+    {
+     "start": 1.42,
+     "end": 1.56,
+     "word": "め"
+    },
+    {
+     "start": 1.56,
+     "end": 1.64,
+     "word": "ん"
+    },
+    {
+     "start": 1.64,
+     "end": 2.02,
+     "word": "ください"
+    },
+    {
+     "start": 2.02,
+     "end": 3.62,
+     "word": " い"
+    },
+    {
+     "start": 3.62,
+     "end": 3.72,
+     "word": "ら"
+    },
+    {
+     "start": 3.72,
+     "end": 3.88,
+     "word": "っ"
+    },
+    {
+     "start": 3.88,
+     "end": 4.04,
+     "word": "しゃ"
+    },
+    {
+     "start": 4.04,
+     "end": 4.22,
+     "word": "い"
+    }
+   ]
+  },
+  {
+   "start": 4.96,
+   "end": 8.54,
+   "text": "どうぞ上がってください おじゃまします",
+   "words": [
+    {
+     "start": 4.96,
+     "end": 5.36,
+     "word": "どう"
+    },
+    {
+     "start": 5.36,
+     "end": 5.62,
+     "word": "ぞ"
+    },
+    {
+     "start": 5.62,
+     "end": 6.08,
+     "word": "上"
+    },
+    {
+     "start": 6.08,
+     "end": 6.18,
+     "word": "が"
+    },
+    {
+     "start": 6.18,
+     "end": 6.38,
+     "word": "って"
+    },
+    {
+     "start": 6.38,
+     "end": 6.86,
+     "word": "ください"
+    },
+    {
+     "start": 6.86,
+     "end": 8.04,
+     "word": " お"
+    },
+    {
+     "start": 8.04,
+     "end": 8.16,
+     "word": "じゃ"
+    },
+    {
+     "start": 8.16,
+     "end": 8.28,
+     "word": "ま"
+    },
+    {
+     "start": 8.28,
+     "end": 8.54,
+     "word": "します"
+    }
+   ]
+  }
+ ]
+}

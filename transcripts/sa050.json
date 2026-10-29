@@ -1,0 +1,99 @@
+{
+ "file": "sa050.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson04",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.96,
+   "end": 9.94,
+   "text": "4 私は5人家族です私と妻と子供3人です",
+   "words": [
+    {
+     "start": 1.96,
+     "end": 2.58,
+     "word": "4"
+    },
+    {
+     "start": 2.58,
+     "end": 3.2,
+     "word": " 私"
+    },
+    {
+     "start": 3.2,
+     "end": 3.48,
+     "word": "は"
+    },
+    {
+     "start": 3.48,
+     "end": 4.12,
+     "word": "5"
+    },
+    {
+     "start": 4.12,
+     "end": 4.32,
+     "word": "人"
+    },
+    {
+     "start": 4.32,
+     "end": 4.62,
+     "word": "家"
+    },
+    {
+     "start": 4.62,
+     "end": 4.76,
+     "word": "族"
+    },
+    {
+     "start": 4.76,
+     "end": 5.08,
+     "word": "です"
+    },
+    {
+     "start": 5.08,
+     "end": 6.5,
+     "word": "私"
+    },
+    {
+     "start": 6.5,
+     "end": 6.78,
+     "word": "と"
+    },
+    {
+     "start": 6.78,
+     "end": 7.76,
+     "word": "妻"
+    },
+    {
+     "start": 7.76,
+     "end": 8.04,
+     "word": "と"
+    },
+    {
+     "start": 8.04,
+     "end": 8.88,
+     "word": "子"
+    },
+    {
+     "start": 8.88,
+     "end": 9.04,
+     "word": "供"
+    },
+    {
+     "start": 9.04,
+     "end": 9.4,
+     "word": "3"
+    },
+    {
+     "start": 9.4,
+     "end": 9.64,
+     "word": "人"
+    },
+    {
+     "start": 9.64,
+     "end": 9.94,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

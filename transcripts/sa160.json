@@ -1,0 +1,115 @@
+{
+ "file": "sa160.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson13",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.9800000000000009,
+   "end": 4.5,
+   "text": "あのー遠いですか?",
+   "words": [
+    {
+     "start": 1.9800000000000009,
+     "end": 2.78,
+     "word": "あの"
+    },
+    {
+     "start": 2.78,
+     "end": 3.42,
+     "word": "ー"
+    },
+    {
+     "start": 3.42,
+     "end": 3.92,
+     "word": "遠"
+    },
+    {
+     "start": 3.92,
+     "end": 4.14,
+     "word": "い"
+    },
+    {
+     "start": 4.14,
+     "end": 4.5,
+     "word": "ですか?"
+    }
+   ]
+  },
+  {
+   "start": 5.56,
+   "end": 6.86,
+   "text": "うーんそうですね",
+   "words": [
+    {
+     "start": 5.56,
+     "end": 5.82,
+     "word": "う"
+    },
+    {
+     "start": 5.82,
+     "end": 6.22,
+     "word": "ーん"
+    },
+    {
+     "start": 6.22,
+     "end": 6.86,
+     "word": "そうですね"
+    }
+   ]
+  },
+  {
+   "start": 6.86,
+   "end": 10.46,
+   "text": "多分20分ぐらいです",
+   "words": [
+    {
+     "start": 6.86,
+     "end": 8.44,
+     "word": "多"
+    },
+    {
+     "start": 8.44,
+     "end": 8.76,
+     "word": "分"
+    },
+    {
+     "start": 8.76,
+     "end": 9.44,
+     "word": "20"
+    },
+    {
+     "start": 9.44,
+     "end": 9.78,
+     "word": "分"
+    },
+    {
+     "start": 9.78,
+     "end": 9.96,
+     "word": "ぐ"
+    },
+    {
+     "start": 9.96,
+     "end": 10.08,
+     "word": "らい"
+    },
+    {
+     "start": 10.08,
+     "end": 10.46,
+     "word": "です"
+    }
+   ]
+  },
+  {
+   "start": 10.46,
+   "end": 11.68,
+   "text": "はい",
+   "words": [
+    {
+     "start": 10.46,
+     "end": 11.68,
+     "word": "はい"
+    }
+   ]
+  }
+ ]
+}

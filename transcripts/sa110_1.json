@@ -1,0 +1,86 @@
+{
+ "file": "sa110_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson08",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.6999999999999995,
+   "end": 4.12,
+   "text": "3.ここは私の部屋です。",
+   "words": [
+    {
+     "start": 0.6999999999999995,
+     "end": 1.34,
+     "word": "3."
+    },
+    {
+     "start": 2.38,
+     "end": 2.6,
+     "word": "ここ"
+    },
+    {
+     "start": 2.6,
+     "end": 2.88,
+     "word": "は"
+    },
+    {
+     "start": 2.88,
+     "end": 3.2,
+     "word": "私"
+    },
+    {
+     "start": 3.2,
+     "end": 3.54,
+     "word": "の"
+    },
+    {
+     "start": 3.54,
+     "end": 3.72,
+     "word": "部"
+    },
+    {
+     "start": 3.72,
+     "end": 3.84,
+     "word": "屋"
+    },
+    {
+     "start": 3.84,
+     "end": 4.12,
+     "word": "です。"
+    }
+   ]
+  },
+  {
+   "start": 5.3,
+   "end": 8.02,
+   "text": "1.聞いていましょう。",
+   "words": [
+    {
+     "start": 5.3,
+     "end": 5.94,
+     "word": "1."
+    },
+    {
+     "start": 7.06,
+     "end": 7.2,
+     "word": "聞"
+    },
+    {
+     "start": 7.2,
+     "end": 7.46,
+     "word": "いて"
+    },
+    {
+     "start": 7.46,
+     "end": 7.64,
+     "word": "い"
+    },
+    {
+     "start": 7.64,
+     "end": 8.02,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

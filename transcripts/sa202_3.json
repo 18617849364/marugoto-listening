@@ -1,0 +1,174 @@
+{
+ "file": "sa202_3.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson16",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.88,
+   "end": 2.38,
+   "text": "1",
+   "words": [
+    {
+     "start": 1.88,
+     "end": 2.38,
+     "word": "1"
+    }
+   ]
+  },
+  {
+   "start": 3.54,
+   "end": 4.58,
+   "text": "いらっしゃいませ",
+   "words": [
+    {
+     "start": 3.54,
+     "end": 4.04,
+     "word": "い"
+    },
+    {
+     "start": 4.04,
+     "end": 4.14,
+     "word": "ら"
+    },
+    {
+     "start": 4.14,
+     "end": 4.24,
+     "word": "っ"
+    },
+    {
+     "start": 4.24,
+     "end": 4.28,
+     "word": "しゃ"
+    },
+    {
+     "start": 4.28,
+     "end": 4.38,
+     "word": "い"
+    },
+    {
+     "start": 4.38,
+     "end": 4.58,
+     "word": "ませ"
+    }
+   ]
+  },
+  {
+   "start": 5.32,
+   "end": 6.32,
+   "text": "すみません",
+   "words": [
+    {
+     "start": 5.32,
+     "end": 5.82,
+     "word": "す"
+    },
+    {
+     "start": 5.82,
+     "end": 5.98,
+     "word": "み"
+    },
+    {
+     "start": 5.98,
+     "end": 6.32,
+     "word": "ません"
+    }
+   ]
+  },
+  {
+   "start": 7.0,
+   "end": 9.7,
+   "text": "このTシャツSサイズありますか?",
+   "words": [
+    {
+     "start": 7.0,
+     "end": 7.26,
+     "word": "この"
+    },
+    {
+     "start": 7.26,
+     "end": 7.52,
+     "word": "T"
+    },
+    {
+     "start": 7.52,
+     "end": 7.64,
+     "word": "シ"
+    },
+    {
+     "start": 7.64,
+     "end": 7.68,
+     "word": "ャ"
+    },
+    {
+     "start": 7.68,
+     "end": 7.92,
+     "word": "ツ"
+    },
+    {
+     "start": 7.92,
+     "end": 8.58,
+     "word": "S"
+    },
+    {
+     "start": 8.58,
+     "end": 8.78,
+     "word": "サ"
+    },
+    {
+     "start": 8.78,
+     "end": 8.84,
+     "word": "イ"
+    },
+    {
+     "start": 8.84,
+     "end": 8.94,
+     "word": "ズ"
+    },
+    {
+     "start": 8.94,
+     "end": 9.18,
+     "word": "あります"
+    },
+    {
+     "start": 9.18,
+     "end": 9.7,
+     "word": "か?"
+    }
+   ]
+  },
+  {
+   "start": 10.74,
+   "end": 11.74,
+   "text": "はいあります",
+   "words": [
+    {
+     "start": 10.74,
+     "end": 11.24,
+     "word": "はい"
+    },
+    {
+     "start": 11.24,
+     "end": 11.74,
+     "word": "あります"
+    }
+   ]
+  },
+  {
+   "start": 12.56,
+   "end": 13.42,
+   "text": "こちらです",
+   "words": [
+    {
+     "start": 12.56,
+     "end": 13.06,
+     "word": "こちら"
+    },
+    {
+     "start": 13.06,
+     "end": 13.42,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

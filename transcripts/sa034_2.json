@@ -1,0 +1,120 @@
+{
+ "file": "sa034_2.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson03",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.18,
+   "text": "1",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.18,
+     "word": "1"
+    }
+   ]
+  },
+  {
+   "start": 2.1400000000000006,
+   "end": 5.56,
+   "text": "田中さんは英語できますか",
+   "words": [
+    {
+     "start": 2.1400000000000006,
+     "end": 2.84,
+     "word": "田"
+    },
+    {
+     "start": 2.84,
+     "end": 3.08,
+     "word": "中"
+    },
+    {
+     "start": 3.08,
+     "end": 3.42,
+     "word": "さん"
+    },
+    {
+     "start": 3.42,
+     "end": 3.7,
+     "word": "は"
+    },
+    {
+     "start": 3.7,
+     "end": 3.96,
+     "word": "英"
+    },
+    {
+     "start": 3.96,
+     "end": 4.26,
+     "word": "語"
+    },
+    {
+     "start": 4.26,
+     "end": 4.74,
+     "word": "で"
+    },
+    {
+     "start": 4.74,
+     "end": 5.02,
+     "word": "きます"
+    },
+    {
+     "start": 5.02,
+     "end": 5.56,
+     "word": "か"
+    }
+   ]
+  },
+  {
+   "start": 5.56,
+   "end": 8.62,
+   "text": "はい、少しできます",
+   "words": [
+    {
+     "start": 5.56,
+     "end": 6.78,
+     "word": "はい、"
+    },
+    {
+     "start": 7.54,
+     "end": 7.74,
+     "word": "少"
+    },
+    {
+     "start": 7.74,
+     "end": 8.06,
+     "word": "し"
+    },
+    {
+     "start": 8.06,
+     "end": 8.26,
+     "word": "で"
+    },
+    {
+     "start": 8.26,
+     "end": 8.62,
+     "word": "きます"
+    }
+   ]
+  },
+  {
+   "start": 8.62,
+   "end": 10.46,
+   "text": "そうですか",
+   "words": [
+    {
+     "start": 8.62,
+     "end": 9.98,
+     "word": "そう"
+    },
+    {
+     "start": 9.98,
+     "end": 10.46,
+     "word": "ですか"
+    }
+   ]
+  }
+ ]
+}

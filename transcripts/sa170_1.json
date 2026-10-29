@@ -1,0 +1,54 @@
+{
+ "file": "sa170_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson14",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.6400000000000003,
+   "end": 3.98,
+   "text": "1の2 聞いて言いましょう",
+   "words": [
+    {
+     "start": 0.6400000000000003,
+     "end": 1.28,
+     "word": "1"
+    },
+    {
+     "start": 1.28,
+     "end": 1.5,
+     "word": "の"
+    },
+    {
+     "start": 1.5,
+     "end": 1.82,
+     "word": "2"
+    },
+    {
+     "start": 2.66,
+     "end": 2.98,
+     "word": " 聞"
+    },
+    {
+     "start": 2.98,
+     "end": 3.28,
+     "word": "いて"
+    },
+    {
+     "start": 3.28,
+     "end": 3.52,
+     "word": "言"
+    },
+    {
+     "start": 3.52,
+     "end": 3.58,
+     "word": "い"
+    },
+    {
+     "start": 3.58,
+     "end": 3.98,
+     "word": "ましょう"
+    }
+   ]
+  }
+ ]
+}

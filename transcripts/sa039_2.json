@@ -1,0 +1,78 @@
+{
+ "file": "sa039_2.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson03",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.34,
+   "text": "1",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.34,
+     "word": "1"
+    }
+   ]
+  },
+  {
+   "start": 2.2600000000000002,
+   "end": 3.8,
+   "text": "お仕事は?",
+   "words": [
+    {
+     "start": 2.2600000000000002,
+     "end": 2.96,
+     "word": "お"
+    },
+    {
+     "start": 2.96,
+     "end": 3.16,
+     "word": "仕"
+    },
+    {
+     "start": 3.16,
+     "end": 3.48,
+     "word": "事"
+    },
+    {
+     "start": 3.48,
+     "end": 3.8,
+     "word": "は?"
+    }
+   ]
+  },
+  {
+   "start": 4.64,
+   "end": 6.5,
+   "text": "私は主婦です。",
+   "words": [
+    {
+     "start": 4.64,
+     "end": 5.14,
+     "word": "私"
+    },
+    {
+     "start": 5.14,
+     "end": 5.44,
+     "word": "は"
+    },
+    {
+     "start": 5.44,
+     "end": 6.08,
+     "word": "主"
+    },
+    {
+     "start": 6.08,
+     "end": 6.22,
+     "word": "婦"
+    },
+    {
+     "start": 6.22,
+     "end": 6.5,
+     "word": "です。"
+    }
+   ]
+  }
+ ]
+}

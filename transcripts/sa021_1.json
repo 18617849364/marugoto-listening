@@ -1,0 +1,74 @@
+{
+ "file": "sa021_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson02",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.8200000000000001,
+   "end": 6.48,
+   "text": "4. 平仮名、片仮名。聞いて言いましょう。",
+   "words": [
+    {
+     "start": 0.8200000000000001,
+     "end": 1.32,
+     "word": "4."
+    },
+    {
+     "start": 2.44,
+     "end": 2.6,
+     "word": " 平"
+    },
+    {
+     "start": 2.6,
+     "end": 2.82,
+     "word": "仮"
+    },
+    {
+     "start": 2.82,
+     "end": 3.0,
+     "word": "名、"
+    },
+    {
+     "start": 3.5,
+     "end": 3.66,
+     "word": "片"
+    },
+    {
+     "start": 3.66,
+     "end": 3.88,
+     "word": "仮"
+    },
+    {
+     "start": 3.88,
+     "end": 4.44,
+     "word": "名。"
+    },
+    {
+     "start": 5.56,
+     "end": 5.66,
+     "word": "聞"
+    },
+    {
+     "start": 5.66,
+     "end": 5.94,
+     "word": "いて"
+    },
+    {
+     "start": 5.94,
+     "end": 6.12,
+     "word": "言"
+    },
+    {
+     "start": 6.12,
+     "end": 6.18,
+     "word": "い"
+    },
+    {
+     "start": 6.18,
+     "end": 6.48,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}

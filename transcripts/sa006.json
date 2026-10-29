@@ -1,0 +1,86 @@
+{
+ "file": "sa006.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson01",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.7399999999999995,
+   "end": 1.18,
+   "text": "5",
+   "words": [
+    {
+     "start": 0.7399999999999995,
+     "end": 1.18,
+     "word": "5"
+    }
+   ]
+  },
+  {
+   "start": 2.3199999999999994,
+   "end": 6.18,
+   "text": "お先に失礼します。お疲れさまでした。",
+   "words": [
+    {
+     "start": 2.3199999999999994,
+     "end": 2.76,
+     "word": "お"
+    },
+    {
+     "start": 2.76,
+     "end": 2.96,
+     "word": "先"
+    },
+    {
+     "start": 2.96,
+     "end": 3.18,
+     "word": "に"
+    },
+    {
+     "start": 3.18,
+     "end": 3.58,
+     "word": "失"
+    },
+    {
+     "start": 3.58,
+     "end": 3.76,
+     "word": "礼"
+    },
+    {
+     "start": 3.76,
+     "end": 4.14,
+     "word": "します。"
+    },
+    {
+     "start": 4.86,
+     "end": 5.3,
+     "word": "お"
+    },
+    {
+     "start": 5.3,
+     "end": 5.5,
+     "word": "疲"
+    },
+    {
+     "start": 5.5,
+     "end": 5.64,
+     "word": "れ"
+    },
+    {
+     "start": 5.64,
+     "end": 5.74,
+     "word": "さ"
+    },
+    {
+     "start": 5.74,
+     "end": 5.96,
+     "word": "まで"
+    },
+    {
+     "start": 5.96,
+     "end": 6.18,
+     "word": "した。"
+    }
+   ]
+  }
+ ]
+}

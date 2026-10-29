@@ -1,0 +1,133 @@
+{
+ "file": "sa101_2.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson08",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.18,
+   "text": "1 あの人形は",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.68,
+     "word": "1"
+    },
+    {
+     "start": 1.68,
+     "end": 3.36,
+     "word": " あ"
+    },
+    {
+     "start": 3.36,
+     "end": 3.7,
+     "word": "の"
+    },
+    {
+     "start": 3.7,
+     "end": 4.52,
+     "word": "人"
+    },
+    {
+     "start": 4.52,
+     "end": 4.78,
+     "word": "形"
+    },
+    {
+     "start": 4.78,
+     "end": 5.18,
+     "word": "は"
+    }
+   ]
+  },
+  {
+   "start": 6.0,
+   "end": 11.48,
+   "text": "人形ですか 人形は箱の中にお願いします",
+   "words": [
+    {
+     "start": 6.0,
+     "end": 6.46,
+     "word": "人"
+    },
+    {
+     "start": 6.46,
+     "end": 6.72,
+     "word": "形"
+    },
+    {
+     "start": 6.72,
+     "end": 7.26,
+     "word": "ですか"
+    },
+    {
+     "start": 8.2,
+     "end": 8.54,
+     "word": " 人"
+    },
+    {
+     "start": 8.54,
+     "end": 8.74,
+     "word": "形"
+    },
+    {
+     "start": 8.74,
+     "end": 9.2,
+     "word": "は"
+    },
+    {
+     "start": 9.2,
+     "end": 9.9,
+     "word": "箱"
+    },
+    {
+     "start": 9.9,
+     "end": 10.1,
+     "word": "の"
+    },
+    {
+     "start": 10.1,
+     "end": 10.4,
+     "word": "中"
+    },
+    {
+     "start": 10.4,
+     "end": 10.64,
+     "word": "に"
+    },
+    {
+     "start": 10.64,
+     "end": 11.48,
+     "word": "お願いします"
+    }
+   ]
+  },
+  {
+   "start": 12.5,
+   "end": 14.16,
+   "text": "箱の中ですね",
+   "words": [
+    {
+     "start": 12.5,
+     "end": 13.04,
+     "word": "箱"
+    },
+    {
+     "start": 13.04,
+     "end": 13.28,
+     "word": "の"
+    },
+    {
+     "start": 13.28,
+     "end": 13.64,
+     "word": "中"
+    },
+    {
+     "start": 13.64,
+     "end": 14.16,
+     "word": "ですね"
+    }
+   ]
+  }
+ ]
+}

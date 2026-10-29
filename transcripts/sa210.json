@@ -1,0 +1,103 @@
+{
+ "file": "sa210.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson16",
+ "duration": null,
+ "segments": [
+  {
+   "start": 1.9000000000000012,
+   "end": 4.12,
+   "text": "エッサイズありますか?",
+   "words": [
+    {
+     "start": 1.9000000000000012,
+     "end": 2.66,
+     "word": "エ"
+    },
+    {
+     "start": 2.66,
+     "end": 2.7,
+     "word": "ッ"
+    },
+    {
+     "start": 2.7,
+     "end": 2.92,
+     "word": "サ"
+    },
+    {
+     "start": 2.92,
+     "end": 2.98,
+     "word": "イ"
+    },
+    {
+     "start": 2.98,
+     "end": 3.16,
+     "word": "ズ"
+    },
+    {
+     "start": 3.16,
+     "end": 3.6,
+     "word": "あります"
+    },
+    {
+     "start": 3.6,
+     "end": 4.12,
+     "word": "か?"
+    }
+   ]
+  },
+  {
+   "start": 4.9,
+   "end": 7.08,
+   "text": "すみません、ありません",
+   "words": [
+    {
+     "start": 4.9,
+     "end": 5.48,
+     "word": "す"
+    },
+    {
+     "start": 5.48,
+     "end": 5.62,
+     "word": "み"
+    },
+    {
+     "start": 5.62,
+     "end": 6.02,
+     "word": "ません、"
+    },
+    {
+     "start": 6.46,
+     "end": 6.62,
+     "word": "あり"
+    },
+    {
+     "start": 6.62,
+     "end": 7.08,
+     "word": "ません"
+    }
+   ]
+  },
+  {
+   "start": 7.08,
+   "end": 9.32,
+   "text": "じゃあ、いいです",
+   "words": [
+    {
+     "start": 7.08,
+     "end": 8.54,
+     "word": "じゃあ、"
+    },
+    {
+     "start": 8.76,
+     "end": 8.96,
+     "word": "いい"
+    },
+    {
+     "start": 8.96,
+     "end": 9.32,
+     "word": "です"
+    }
+   ]
+  }
+ ]
+}

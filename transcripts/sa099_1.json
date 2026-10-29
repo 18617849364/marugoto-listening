@@ -1,0 +1,123 @@
+{
+ "file": "sa099_1.mp3",
+ "lesson": "MarugotoStarterActivitiesMp3Lesson08",
+ "duration": null,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.98,
+   "text": "第8回。いい部屋ですね。",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 1.22,
+     "word": "第"
+    },
+    {
+     "start": 1.22,
+     "end": 1.64,
+     "word": "8"
+    },
+    {
+     "start": 1.64,
+     "end": 1.92,
+     "word": "回。"
+    },
+    {
+     "start": 2.88,
+     "end": 3.1,
+     "word": "いい"
+    },
+    {
+     "start": 3.1,
+     "end": 3.38,
+     "word": "部"
+    },
+    {
+     "start": 3.38,
+     "end": 3.52,
+     "word": "屋"
+    },
+    {
+     "start": 3.52,
+     "end": 3.98,
+     "word": "ですね。"
+    }
+   ]
+  },
+  {
+   "start": 5.14,
+   "end": 8.46,
+   "text": "1。人形はどこですか?",
+   "words": [
+    {
+     "start": 5.14,
+     "end": 5.78,
+     "word": "1。"
+    },
+    {
+     "start": 6.82,
+     "end": 7.08,
+     "word": "人"
+    },
+    {
+     "start": 7.08,
+     "end": 7.4,
+     "word": "形"
+    },
+    {
+     "start": 7.4,
+     "end": 7.7,
+     "word": "は"
+    },
+    {
+     "start": 7.7,
+     "end": 7.86,
+     "word": "ど"
+    },
+    {
+     "start": 7.86,
+     "end": 8.0,
+     "word": "こ"
+    },
+    {
+     "start": 8.0,
+     "end": 8.46,
+     "word": "ですか?"
+    }
+   ]
+  },
+  {
+   "start": 9.74,
+   "end": 12.44,
+   "text": "1。聞いていましょう。",
+   "words": [
+    {
+     "start": 9.74,
+     "end": 10.38,
+     "word": "1。"
+    },
+    {
+     "start": 11.32,
+     "end": 11.62,
+     "word": "聞"
+    },
+    {
+     "start": 11.62,
+     "end": 11.9,
+     "word": "いて"
+    },
+    {
+     "start": 11.9,
+     "end": 12.06,
+     "word": "い"
+    },
+    {
+     "start": 12.06,
+     "end": 12.44,
+     "word": "ましょう。"
+    }
+   ]
+  }
+ ]
+}
