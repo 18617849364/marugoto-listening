@@ -271,6 +271,7 @@ function showPage(p) {
   state.page = p;
   const img = $("pageImg");
   img.src = pageImg(p);
+  resetZoom();
   const pages = lessonOf(state.lesson).pages;
   const i = pages.indexOf(p);
   $("pageIndicator").textContent = `p.${p}（${i + 1}/${pages.length}）`;
@@ -543,3 +544,97 @@ renderTrackList();
 renderPageStrip();
 const first = lessonTracks(state.lesson)[0];
 if (first) loadTrack(first, false);
+
+/* ---------- page pan & zoom ---------- */
+const view = { scale: 1, tx: 0, ty: 0 };
+const MIN_SCALE = 0.25, MAX_SCALE = 4;
+
+function applyView() {
+  const stage = $("pageStage");
+  stage.style.transform = "translate(" + view.tx + "px," + view.ty + "px) scale(" + view.scale + ")";
+}
+
+function fitScale() {
+  const pv = $("pageView");
+  const img = $("pageImg");
+  if (!img.naturalWidth) return 1;
+  const availW = pv.clientWidth - 16;
+  const availH = pv.clientHeight - 16;
+  return Math.min(availW / img.naturalWidth, availH / img.naturalHeight, 1);
+}
+
+function resetZoom() {
+  view.scale = 1; view.tx = 0; view.ty = 0;
+  const img = $("pageImg");
+  if (img.complete && img.naturalWidth) {
+    view.scale = fitScale();
+    applyView();
+  } else {
+    img.onload = function() { view.scale = fitScale(); applyView(); };
+  }
+}
+
+function zoomBy(factor, cx, cy) {
+  const pv = $("pageView");
+  const rect = pv.getBoundingClientRect();
+  if (cx === undefined) cx = rect.width / 2;
+  if (cy === undefined) cy = rect.height / 2;
+  const newScale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, view.scale * factor));
+  if (newScale === view.scale) return;
+  const k = newScale / view.scale;
+  view.tx = cx - (cx - view.tx) * k;
+  view.ty = cy - (cy - view.ty) * k;
+  view.scale = newScale;
+  applyView();
+}
+
+(function setupPanZoom() {
+  const pv = $("pageView");
+  if (!pv) return;
+  let drag = null;
+  pv.addEventListener("pointerdown", function(e) {
+    if (e.target.closest(".chip-mark, .zoom-hint, button")) return;
+    drag = { x: e.clientX, y: e.clientY, tx: view.tx, ty: view.ty };
+    pv.classList.add("dragging");
+    pv.setPointerCapture(e.pointerId);
+  });
+  pv.addEventListener("pointermove", function(e) {
+    if (!drag) return;
+    view.tx = drag.tx + (e.clientX - drag.x);
+    view.ty = drag.ty + (e.clientY - drag.y);
+    applyView();
+  });
+  function endDrag(e) {
+    if (drag) { drag = null; pv.classList.remove("dragging"); }
+  }
+  pv.addEventListener("pointerup", endDrag);
+  pv.addEventListener("pointercancel", endDrag);
+
+  pv.addEventListener("wheel", function(e) {
+    if (!e.ctrlKey && !e.metaKey) return;
+    e.preventDefault();
+    const factor = e.deltaY < 0 ? 1.15 : 1/1.15;
+    const rect = pv.getBoundingClientRect();
+    zoomBy(factor, e.clientX - rect.left, e.clientY - rect.top);
+  }, { passive: false });
+
+  const zi = document.getElementById("zoomIn");
+  const zo = document.getElementById("zoomOut");
+  const zr = document.getElementById("zoomReset");
+  if (zi) zi.onclick = function() { zoomBy(1.4); };
+  if (zo) zo.onclick = function() { zoomBy(1/1.4); };
+  if (zr) zr.onclick = function() { resetZoom(); };
+
+  pv.addEventListener("dblclick", function(e) {
+    if (e.target.closest(".chip-mark, .zoom-hint, button")) return;
+    if (view.scale < 0.95) { view.scale = 1; view.tx = 0; view.ty = 0; applyView(); }
+    else { resetZoom(); }
+  });
+
+  const img = $("pageImg");
+  if (img.complete && img.naturalWidth) resetZoom();
+  else img.addEventListener("load", function once() {
+    img.removeEventListener("load", once);
+    resetZoom();
+  });
+})();
